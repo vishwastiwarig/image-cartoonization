@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements an image cartoonization technique using Python, leveraging libraries such as OpenCV and NumPy. The goal is to transform real images into cartoon-like representations, making use of various image processing techniques.
+This project implements an image cartoonization technique using Python, I just want to explore this secctor ,leveraging libraries such as OpenCV and NumPy. The goal is to transform real images into cartoon-like representations,, making use of various image processing techniques.
 
 ## Features
 
